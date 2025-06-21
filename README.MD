@@ -130,4 +130,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Developed by [Your Name] for fire safety applications
+Developed by A.Irwin Putra Pangesti for fire safety applications
